@@ -1,7 +1,7 @@
 ## Code to accompany manuscript:
 
 # Host-specificity and core taxa of seagrass leaf microbiome identified across tissue age and geographical regions
-### **Sanders-Smith, R. & Segovia, B.T.,**(*joint contribution*) Forbes, C., Hessing-Lewis, M., Morien, E.,Lemay, M.A., O’Connor, M. I., Parfrey, L.W. 
+### **Sanders-Smith, R. & Segovia, B.T.**(*joint contribution*), Forbes, C., Hessing-Lewis, M., Morien, E.,Lemay, M.A., O’Connor, M. I., Parfrey, L.W. 
 
 ## This repository contains the scripts used to produce the results presented in this manuscript.
 
