@@ -8,4 +8,4 @@
 ## R scripts were compiled it into a PDF report that includes source code and script output:
 ### Scripts 1-6 run the data analysis.
 ### Scripts 7-9 produce the final figures.
-### Script 10 produce Table S4.
+### Script 10 produces Table S4.
